@@ -1,0 +1,25 @@
+{
+  "name": "group-project",
+  "version": "1.0.0",
+  "description": "Let's practice collaborating on the same project!",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smuiznieks/group-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smuiznieks/group-project/issues"
+  },
+  "homepage": "https://github.com/smuiznieks/group-project#readme",
+  "dependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "babel-jest": "^27.4.5",
+    "jest": "^27.4.5"
+  }
+}
