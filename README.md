@@ -38,4 +38,4 @@ To github.com:smuiznieks/group-project.git
 error: failed to push some refs to 'github.com:smuiznieks/group-project.git'
 ```
 
-Wow, this is so cool!!
+Wow, this is so cool!
